@@ -1,3 +1,15 @@
+## Starter Template for NextJS (v14.2.3) Project
+package:
+```bash
+NextJS-Version=14.2.3
+Prisma-Version=5.13.0
+Shadcn-Version=0.8.0
+Tailwind-Version=3.4.1
+```
+[nextjs](https://nextjs.org/docs/getting-started/installation),
+[shadcn-ui](https://ui.shadcn.com/),
+[prisma](https://www.prisma.io/docs/accelerate/getting-started)
+
 .env file:
 
 ```bash
